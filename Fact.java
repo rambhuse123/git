@@ -11,7 +11,7 @@ public class Fact {
 	}
 	public static void main(String[] args) {
 		Fact f=new Fact();
-		System.out.println(f.findFa(5));
+		System.out.println("factorial of 5 is"+f.findFa(5));
 	}
 
 }
